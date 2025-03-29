@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "imgSrc": "/assets/blog1.jpg",
+      "tag": "DAW",
+      "title": "How to use Drum Machine in Logic",
+      "link": "#"
+    },
+    {
+      "id": 2,
+      "imgSrc": "/assets/blog2.jpg",
+      "tag": "Mixing",
+      "title": "How To Mix Guitars Effectively",
+      "link": "#"
+    },
+    {
+      "id": 3,
+      "imgSrc": "/assets/blog3.jpg",
+      "tag": "Vox",
+      "title": "The Real Power of Harmonies",
+      "link": "#"
+    }
+  ]
+  
